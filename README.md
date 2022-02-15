@@ -5,8 +5,7 @@ Jeremy is approached by upper mangement, shortly after starting his new role abo
 
 ## D1 : Linear Regression to predict MPG : Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
-        ![first](Screenshot Mecha1.png)
-        ![Screenshot Mecha1](https://user-images.githubusercontent.com/89805399/153975698-f72fba49-9dc6-43a0-849c-15a8f7509dc3.png)
+ ![Screenshot Mecha1](https://user-images.githubusercontent.com/89805399/153975698-f72fba49-9dc6-43a0-849c-15a8f7509dc3.png)
 
 
 
@@ -14,9 +13,9 @@ Using the MechaCar_mpg dataset  vehicle_length and ground_clearance have signigi
 
 ## D2 : Summary Statistics on Suspension Coils Collecets summary statistis on the pounds per square inch (PSI) of the suspension coils from the manufacturing  lots
 
-        ![Coil PSI variance for all lots](./Images/Screenshot Mecha2.png)
+   ![Coil PSI variance for all lots](./Images/Screenshot Mecha2.png)
 
-        ![Coil PSI variance for all lots](./Images/Screenshot Mecha3.png)
+   ![Coil PSI variance for all lots](./Images/Screenshot Mecha3.png)
 
 
 
@@ -24,20 +23,20 @@ Using the MechaCar_mpg dataset  vehicle_length and ground_clearance have signigi
 
 ## D3 : T-Tests on Suspension Coils
 
-        ![lots](./Images/Screenshot Mecha4.0 .png)
+   ![lots](./Images/Screenshot Mecha4.0 .png)
 
 All lots are not signigiantly different from the population mean
 
-        ![lots](./Images/Screenshot Mecha4.1.png)
+   ![lots](./Images/Screenshot Mecha4.1.png)
 
 Lot 1 is not significantly different from the population mean
         
         
-        ![lots](./Images/Screenshot Mecha4.2.png)
+   ![lots](./Images/Screenshot Mecha4.2.png)
 
 Lot 2 is not significantly different from the population mean
         
-        ![lots](./Images/Screenshot Mecha4.3.png)
+   ![lots](./Images/Screenshot Mecha4.3.png)
 
 Lot 3 is significantly different from the population mean
 
