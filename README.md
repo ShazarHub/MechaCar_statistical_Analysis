@@ -6,6 +6,8 @@ Jeremy is approached by upper mangement, shortly after starting his new role abo
 ## D1 : Linear Regression to predict MPG : Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
         ![first](Screenshot Mecha1.png)
+        ![Screenshot Mecha1](https://user-images.githubusercontent.com/89805399/153975698-f72fba49-9dc6-43a0-849c-15a8f7509dc3.png)
+
 
 
 Using the MechaCar_mpg dataset  vehicle_length and ground_clearance have signigicant impact on mpg.The linear model prdicts mpg necuase we got the multiple R-squared value is 0.71   
