@@ -13,9 +13,10 @@ Using the MechaCar_mpg dataset  vehicle_length and ground_clearance have signigi
 
 ## D2 : Summary Statistics on Suspension Coils Collecets summary statistis on the pounds per square inch (PSI) of the suspension coils from the manufacturing  lots
 
-   ![Coil PSI variance for all lots](./Images/Screenshot Mecha2.png)
+![Screenshot Mecha2](https://user-images.githubusercontent.com/89805399/153975928-e2b6ba05-0596-4b5a-9e30-67a382ee1064.png)
 
-   ![Coil PSI variance for all lots](./Images/Screenshot Mecha3.png)
+![Screenshot Mecha3](https://user-images.githubusercontent.com/89805399/153975934-9b2cf7fd-defc-4562-a90b-86cc70969e3e.png)
+
 
 
 
@@ -23,20 +24,24 @@ Using the MechaCar_mpg dataset  vehicle_length and ground_clearance have signigi
 
 ## D3 : T-Tests on Suspension Coils
 
-   ![lots](./Images/Screenshot Mecha4.0 .png)
+![Screenshot Mecha4 0 ](https://user-images.githubusercontent.com/89805399/153975955-86798df2-8d98-410d-b8ec-ad864ffccf6a.png)
+
 
 All lots are not signigiantly different from the population mean
 
-   ![lots](./Images/Screenshot Mecha4.1.png)
+![Screenshot Mecha4 1](https://user-images.githubusercontent.com/89805399/153975966-20fa703b-6919-41f8-8d34-9b84b4d55ddd.png)
+
 
 Lot 1 is not significantly different from the population mean
         
-        
-   ![lots](./Images/Screenshot Mecha4.2.png)
+
+![Screenshot Mecha4 2](https://user-images.githubusercontent.com/89805399/153975982-afebd43c-b76d-4696-a7fa-2ea08d1fdbd5.png)
+
 
 Lot 2 is not significantly different from the population mean
         
-   ![lots](./Images/Screenshot Mecha4.3.png)
+![Screenshot Mecha4 3](https://user-images.githubusercontent.com/89805399/153975998-92260975-94d4-4a43-bfe9-8c7ccc27c719.png)
+
 
 Lot 3 is significantly different from the population mean
 
